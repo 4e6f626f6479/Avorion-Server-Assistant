@@ -20,10 +20,10 @@ The script works off of the myserver.bat that you modified for your server - Ope
 ## Usage
 Simply run the script.
 
-There is a small UI indicator in the top left to show that the script is running.
+There is a UI indicator in the top left to show that the script is running.
 
 If your server is not running when you run the script, it will launch the server for you.
 
-If the Script encounters an issue it will send a message and stop
+If the Script encounters an issue it will send a message and stop.
 
-Hitting ESC will stop the script
+Hitting ESC will stop the script.
