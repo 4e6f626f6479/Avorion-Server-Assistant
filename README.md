@@ -17,7 +17,7 @@ The script needs to be placed in the avorion server folder (C:\steamcmd\steamapp
 
 The script works off of the myserver.bat that you modified for your server - Open the "Anti_hang_v2.ahk" file with a text editor. In the USER AREA, change the <avorion_server.bat> to whatever you named yours
 
-## USAGE
+## Usage
 Simply run the script.
 
 There is a small UI indicator in the top left to show that the script is running.
