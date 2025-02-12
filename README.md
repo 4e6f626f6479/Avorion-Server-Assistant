@@ -15,7 +15,7 @@ The script requires Autohotkey v2. -> https://www.autohotkey.com/v2/
 
 The script needs to be placed in the avorion server folder (C:\steamcmd\steamapps\common\AvorionServer) or whereever that is for you
 
-The script works off of the myserver.bat that you modified for your server - open the "Anti_hang_v2.ahk" file with a text editor. In the USER AREA, change the <avorion_server.bat> to whatever you named yours
+The script works off of the myserver.bat that you modified for your server - Open the "Anti_hang_v2.ahk" file with a text editor. In the USER AREA, change the <avorion_server.bat> to whatever you named yours
 
 ## USAGE
 Simply run the script.
