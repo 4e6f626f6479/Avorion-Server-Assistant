@@ -10,10 +10,13 @@ https://avorion.fandom.com/wiki/Setting_up_a_server#Setting_up_the_server_(Windo
 
 If you run the server over the GUI this script won't work.
 
+## Download
+The .ahk is the "executable" so just Download the Repository
+
 ## Installation 
 The script requires Autohotkey v2. -> https://www.autohotkey.com/v2/
 
-The script needs to be placed in the avorion server folder (C:\steamcmd\steamapps\common\AvorionServer) or whereever that is for you
+The "Anti_hang_v2.ahk" file needs to be placed in the avorion server folder (C:\steamcmd\steamapps\common\AvorionServer) or whereever that is for you
 
 The script works off of the myserver.bat that you modified for your server - Open the "Anti_hang_v2.ahk" file with a text editor. In the USER AREA, change the <avorion_server.bat> to whatever you named yours
 
